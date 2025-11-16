@@ -10,7 +10,7 @@
 ## How to run locally
 1. Clone the repo:
    ```bash
-   https://github.com/Runa-liit/tittan_garage_website.git
+   https://github.com/sirRoach-nfp/Rhonalyn_Ortiz_TestTask.git
    cd titan_garage
 
 ## Challenges Faced
